@@ -9,11 +9,14 @@ Learn Web3 DAOs repo for this project is [here](https://github.com/LearnWeb3DAO/
 
 ## Overview Info
 Chain: Ethereum
-Network: Ropsten
-Languages: Solidity
 
-Deployed to Ropsten at: 
-Ropsten Contract Link on Etherscan: 
+Network: Ropsten
+
+Languages: Solidity, JavaScript
+
+Deployed to Ropsten at: 0xdE844613ecD39b611c785b5019C41DA4aF9D05e6
+
+Ropsten Contract Link on Etherscan: https://ropsten.etherscan.io/address/0xdE844613ecD39b611c785b5019C41DA4aF9D05e6
 
 ## This tutorial covers:
 - Creating a simple dApp
@@ -23,3 +26,4 @@ Ropsten Contract Link on Etherscan:
 - [Ethers.js](https://docs.ethers.io/v5/)
 - [Remix IDE](https://remix.ethereum.org/)
 - [Ropsten](https://github.com/ethereum/ropsten)
+- [Replit](https://replit.com/)
