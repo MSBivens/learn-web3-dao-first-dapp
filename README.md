@@ -7,6 +7,8 @@ This code was written for Level 7: Create an Ethereum Dapp with Ethers.js
 Tutorial found here [LearnWeb3 DAO - Build your first dApp!](https://www.youtube.com/watch?v=aqxAWLi6UMA)
 Learn Web3 DAOs repo for this project is [here](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
 
+This dApp allows for setting a mood and for calling it to know what mood the setter is in.
+
 ## Overview Info
 Chain: Ethereum
 
